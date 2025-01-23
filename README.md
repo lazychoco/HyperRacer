@@ -1,1 +1,1 @@
-# HyperRacer
+# hyper-racer
